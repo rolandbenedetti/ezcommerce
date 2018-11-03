@@ -9,7 +9,7 @@
 
 *eZ Commerce* is engineered by [silver.solutions](https://www.silversolutions.de/en/) for [eZ Systems](https://ez.no).
 
-*ez Platform Enterprise edition* is developed by eZ Systems. It is composed of a set of bundles. eZ Platform Enterprise Edition, like eZ Platform, is built on top of the Symfony framework (Full Stack). It has been in development since 2014.
+*eZ Platform Enterprise Edition* builds on *[eZ Platform](https://github.com/ezsystems/ezplatform)*. It is composed of a set of bundles. eZ Platform Enterprise Edition, like eZ Platform, is built on top of the Symfony framework (Full Stack).
 
 ### How to get access to eZ Commerce?
  While this meta repository, `ezcommerce`, is public to ease installation and upgrades, full access can be obtained in one of three ways:
